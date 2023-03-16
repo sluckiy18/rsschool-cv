@@ -51,11 +51,8 @@ function highAndLow(numbers){
 ## **Courses:**
 
 + QA software tester courses
+![image](img\AcroRd32_mSeyODM2Et.png)
 + RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
-
-
-
-
 
 ## **Languages:**
 + Russian -Native
